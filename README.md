@@ -1,4 +1,4 @@
-## Hi there 👋I am Rogelio Zazueta
+## Hi there 👋 , I am Rogelio Zazueta
 
 Engineer in Digital Systems and Robotics. Passionate about technology, electronics, and embedded systems development. Interested in the world of embedded systems and electronic design.
 
